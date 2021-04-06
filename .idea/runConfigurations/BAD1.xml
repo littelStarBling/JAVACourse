@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="BAD1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="BAD1" />
+    <module name="module1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
